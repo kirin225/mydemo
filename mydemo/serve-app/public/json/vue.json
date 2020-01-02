@@ -1,0 +1,73 @@
+[
+  {
+    "oder":"第1章 课程导学",
+    "joint":[
+      {"class":"1-1 课程导学","video":"1","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第2章 Vue基础知识",
+    "joint":[
+      {"class":"2-1 概述&脚手架","video":"2","add":"video.mp4"},
+      {"class":"2-2 模板语法（1）","video":"3","add":"videos.mp4"},
+      {"class":"2-3 模板语法（2）","video":"4","add":"video.mp4"},
+      {"class":"2-4 样式与遍历","video":"5","add":"videos.mp4"},
+      {"class":"2-5 事件","video":"6","add":"video.mp4"},
+      {"class":"2-6 组件（1）","video":"7","add":"videos.mp4"},
+      {"class":"2-7 组件（2）","video":"8","add":"video.mp4"},
+      {"class":"2-8 路由基础","video":"9","add":"videos.mp4"},
+      {"class":"2-9 Vuex（1）","video":"10","add":"video.mp4"},
+      {"class":"2-10 Vuex基础用例（2）","video":"11","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第3章 Koa2基础知识",
+    "joint":[
+      {"class":"3-1 Koa-generator","video":"12","add":"video.mp4"},
+      {"class":"3-2 Koa异步async","video":"13","add":"videos.mp4"},
+      {"class":"3-3 Koa中间件","video":"14","add":"video.mp4"},
+      {"class":"3-4 koa路由和cookie","video":"15","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第4章 Mongoose和Redis基础",
+    "joint":[
+      {"class":"4-1 mongoose（1）","video":"16","add":"video.mp4"},
+      {"class":"4-1 mongoose（2）","video":"17","add":"videos.mp4"},
+      {"class":"4-3 Redis（1）","video":"18","add":"videos.mp4"},
+      {"class":"4-4 Redis（2）","video":"19","add":"video.mp4"}
+    ]
+  },
+  {
+    "oder":"第5章 Nuxt.js基础知识",
+    "joint":[
+      {"class":"5-1 Nuxt.js基础（1）","video":"20","add":"videos.mp4"},
+      {"class":"5-2 Nuxt.js基础（2）","video":"21","add":"video.mp4"},
+      {"class":"5-3 Nuxt.js基础（3）","video":"22","add":"videos.mp4"},
+      {"class":"5-4 Nuxt.js基础（4）","video":"23","add":"video.mp4"}
+    ]
+  },
+  {
+    "oder":"第6章 实战准备",
+    "joint":[
+      {"class":"6-1 环境准备与项目安装","video":"24","add":"videos.mp4"},
+      {"class":"6-2 辅助工具安装与配置改装","video":"25","add":"video.mp4"}
+    ]
+  },
+  {
+    "oder":"第7章 开发美团网首页",
+    "joint":[
+      {"class":"7-1 首页Header开发-城市定位服务设计","video":"26","add":"videos.mp4"},
+      {"class":"7-2 首页Header开发-搜索界面设计","video":"27","add":"video.mp4"},
+      {"class":"7-3 首页搜索","video":"28","add":"videos.mp4"},
+      {"class":"7-4 首页菜单（2）","video":"29","add":"video.mp4"}
+    ]
+  },
+  {
+    "oder":"第8章 开发美团网首页-登录注册",
+    "joint":[
+      {"class":"8-1 注册","video":"30","add":"videos.mp4"},
+      {"class":"8-2 注册&登录","video":"31","add":"video.mp4"}
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "oder":"第1章 Html介绍",
+    "joint":[
+      {"class":"1-1 代码初体验，制作我的第一个网页","video":"1","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第2章 认识标签(第一部分)",
+    "joint":[
+      {"class":"2-1 语义化，让你的网页更好的被搜索引擎理解","video":"2","add":"video.mp4"},
+      {"class":"2-2 <body>标签,网页上显示的内容放在这里","video":"3","add":"videos.mp4"},
+      {"class":"2-3 开始学习<p>标签,添加段落","video":"4","add":"video.mp4"},
+      {"class":"2-4 了解<hx>标签，为你的网页添加标题","video":"5","add":"videos.mp4"},
+      {"class":"2-5 加入强调语气,使用<strong>和<em>标签","video":"6","add":"video.mp4"},
+      {"class":"2-6 使用<span>标签为文字设置单独样式","video":"7","add":"videos.mp4"},
+      {"class":"2-7 <q>标签,短文本引用","video":"8","add":"video.mp4"},
+      {"class":"2-8 <blockquote>标签,长文本引用","video":"9","add":"videos.mp4"},
+      {"class":"2-9 使佣<br>标签分行示文本","video":"10","add":"video.mp4"},
+      {"class":"2-10 为你的网页中添加一些空格","video":"11","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第3章 认识标签(第二部分)",
+    "joint":[
+      {"class":"3-1 使用ul,添加新闻信息列表","video":"12","add":"video.mp4"},
+      {"class":"3-2 使用ol,和图书销售排行榜","video":"13","add":"videos.mp4"},
+      {"class":"3-3 认识div在排版中的作用","video":"14","add":"video.mp4"},
+      {"class":"3-4 给div命名，使逻辑更加清晰","video":"15","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第4章 认识标签(第三部分)",
+    "joint":[
+      {"class":"4-1 使用<a>标签,链接到另-一个页面","video":"16","add":"video.mp4"},
+      {"class":"4-2 在新建浏览器窗[中打开链接","video":"17","add":"videos.mp4"},
+      {"class":"4-3 使用mailto在网页中链接Email地址","video":"18","add":"video.mp4"},
+      {"class":"4-4 认识<img>标签,为网页插入图片","video":"19","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第5章 与浏览者交互，表单标签",
+    "joint":[
+      {"class":"5-1 使用表单标签,与用户交互","video":"20","add":"video.mp4"},
+      {"class":"5-2 文本输入框、密码输入框","video":"21","add":"videos.mp4"},
+      {"class":"5-3 文本域，支持多行文本输入","video":"22","add":"video.mp4"},
+      {"class":"5-4 使用单选框、复选框, 让用户选择","video":"23","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第6章 开始学习CSS，为网页添加样式",
+    "joint":[
+      {"class":"6-1 认识CSS样式","video":"24","add":"video.mp4"},
+      {"class":"6-2 CSS样式的优势","video":"25","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第7章 CSS样式基本知识",
+    "joint":[
+      {"class":"7-1 内联式css样式，直接写在现有的HTML标签中","video":"26","add":"video.mp4"},
+      {"class":"7-2 嵌入式css样式，写在当前的文件中","video":"27","add":"videos.mp4"},
+      {"class":"7-3 外部式css样式，写在单独的一个文件中","video":"28","add":"video.mp4"},
+      {"class":"7-4 三种方法的优先级","video":"29","add":"videos.mp4"}
+    ]
+  },
+  {
+    "oder":"第8章 CSS代码缩写，占用更少的带宽",
+    "joint":[
+      {"class":"8-1 13-1盒模型代码简写","video":"30","add":"video.mp4"},
+      {"class":"8-2 颜色值缩写","video":"31","add":"videos.mp4"}
+    ]
+  }
+]
